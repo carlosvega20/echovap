@@ -1,4 +1,4 @@
-baseURL = "www.echovap.com"
+baseURL = "/"
 languageCode = "es-co"
 title = "EchoVap Clean Tech"
 theme = "hugo-serif-theme"
