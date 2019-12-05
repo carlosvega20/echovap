@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Consulta Gratis",
+    "description": "Nuevos socios pueden acceder a una consulta completamente gratis.",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Carnet de Membrecia",
+    "description": "Cada Socio porta un carnet de membrecia con el cual puede ser identificado.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Seguridad",
+    "description": "Cada Socio esta identificado por medio de estandares de seguridad.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]
