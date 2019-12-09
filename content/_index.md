@@ -7,7 +7,7 @@ intro_image_hide_on_mobile: true
 
 ## Club de Lavado a Vapor
 
-* Afíliate hoy y recibe gratis tu primera lavada.
+** Afíliate hoy y recibe gratis tu primera lavada.
 
 * Limpieza y desinfección vehicular a Domicilio. 100% Ecológico, No generamos residuos solidos.
 
